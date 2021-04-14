@@ -1,6 +1,6 @@
 # Web application on Vue.JS for displaying the weather via the API https://openweathermap.org/
 
-## Запуск сервера для старта приложения
+## Starting the server to start the application
 ```
 npm run server
 ```
